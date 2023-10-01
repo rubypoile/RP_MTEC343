@@ -1,0 +1,9 @@
+stack [ s "hardkick:1 hardkick:1 hardkick:1 hardkick:1" # gain 0.7,
+s "bd:1*4" # gain 1.2,
+s "[808:1 808:1 808:4 808:1]*4?",
+s "[~ sequential]*2",
+s "[~ metal:1 ~ metal:1 ~ metal:5 ~ metal:5 ~ metal:1 ~ metal:1 ~ metal:4 ~ metal:4]*0.5" # gain 0.8,
+s "[hit:5 ~ ~ ~]" # gain 0.6,
+s "[pluck:1 ~ ~ pluck:1 ~ ~ pluck:15 ~ ~ pluck:17 ~ ~ pluck:6 ~ ~ pluck:12 ~ ~ pluck:16 ~ ~ pluck:6 ~ ~ pluck:12 ~ ~ pluck:12 ~ pluck:8 pluck:11 pluck:17]*0.5" # gain 1.2,
+s "[numbers:6 ~ numbers:6 numbers:6]*0.5" # gain 0.6
+]
