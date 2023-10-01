@@ -7,3 +7,6 @@ s "[hit:5 ~ ~ ~]" # gain 0.6,
 s "[pluck:1 ~ ~ pluck:1 ~ ~ pluck:15 ~ ~ pluck:17 ~ ~ pluck:6 ~ ~ pluck:12 ~ ~ pluck:16 ~ ~ pluck:6 ~ ~ pluck:12 ~ ~ pluck:12 ~ pluck:8 pluck:11 pluck:17]*0.5" # gain 1.2,
 s "[numbers:6 ~ numbers:6 numbers:6]*0.5" # gain 0.6
 ]
+
+
+I am honestly very proud of myself for doing this!
