@@ -17,3 +17,11 @@ d4 $ silence
 d5 $ silence
 d6 $ silence
 hush
+
+
+
+So as far as documentation goes, I started out by creating a simple framework for the different drums based on functionality, and their role within the larger movement of the music. 
+Then I figured out what sounded nice within each pattern and moved on to doing the same thing with the song sample, and slicing it up to find ways in which I could layer two version of it,
+one at normal pitch, and another 2 octaves lower. I spent some time finding different audio effects that added nice layers of texture over large manipulation, and then created secondary
+patterns to switch to for both drum parts and the sampled parts, and I think it flows really well even without fades and stuff. I also built a small list of silences to give me some more
+performatice control and I think the result is quite nice. 
